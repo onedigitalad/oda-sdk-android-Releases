@@ -1,8 +1,6 @@
 # ODA SDK For Android
 
 
-Tracking Android apps using the OneDigitalAd Tracking SDK for Android
-
 This document describes how to get started using the ODA SDK For Android which gives you valuable insights into your app's visitors, your marketing campaigns and much more, so you can optimize your strategy and experience of your visitors.
 
 ### Developer Documentation
@@ -12,12 +10,10 @@ You can get started with using OneDigitalAd Analytics on Android in minutes. Jus
 ODA SDK should work fine with Android API Version >= 9 (Android 2.2+ Gingerbread and up). This is required since google advertiser id was introduced from this version
 Automatic Events logging is available on API level >= 14.
 
-
-
 Check out the two example projects as below
 
-1. SunshineProject [Integrated ODA SDK Source](https://github.com/onedigitalad/Sunshine-Version-2)  [Diff with original](https://github.com/udacity/Sunshine-Version-2/compare/sunshine_master...onedigitalad:sunshine_master)
-2. Google example Universal Music Player  [Integrated ODA SDK Source](https://github.com/googlesamples/android-UniversalMusicPlayer)  [Diff with original](https://github.com/googlesamples/android-UniversalMusicPlayer/compare/master...onedigitalad:master)
+1. [SunshineProject Integrated ODA SDK Source](https://github.com/onedigitalad/Sunshine-Version-2)  [Diff with original](https://github.com/udacity/Sunshine-Version-2/compare/sunshine_master...onedigitalad:sunshine_master)
+2. [Google example Universal Music Player Integrated ODA SDK Source](https://github.com/googlesamples/android-UniversalMusicPlayer)  [Diff with original](https://github.com/googlesamples/android-UniversalMusicPlayer/compare/master...onedigitalad:master)
 
 |#  |Step                                                                       |
 |---|---                                                                        |
