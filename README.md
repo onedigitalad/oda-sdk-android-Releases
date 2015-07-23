@@ -19,7 +19,7 @@ Check out the two example projects as below
 
 |#  |Step                                                                       |
 |---|---                                                                        |
-|1  |  Installation: [Android Studio](#android-studio), [Eclipse](#eclipse)     |
+|1  |  Installation: [Android Studio](#android-studio), or, [Eclipse](#eclipse) |
 |2  | [Initialize](#2-initialization) SDK                                       |
 |3  | [Setting User Attributes](#3-user-attributes) (optional)                  |
 |4  | [Tracking Events](#4-track-events) (optional)                             |
@@ -53,6 +53,8 @@ Check out the two example projects as below
 3. _Override your Application’s onCreate() method (not your main activity) and call ODATracker.start(). If you don't have an Application class, create one. It should look like this:_
 
     ```java
+    import com.oda.sdk.ODATracker;
+
     public class ExampleApplication extends Application {
         @Override
         public void onCreate() {
