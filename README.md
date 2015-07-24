@@ -1,4 +1,4 @@
-# ODA SDK For Android
+# OneDigitalAd SDK For Android
 
 
 This document describes how to get started using the ODA SDK For Android which gives you valuable insights into your app's visitors, your marketing campaigns and much more, so you can optimize your strategy and experience of your visitors.
